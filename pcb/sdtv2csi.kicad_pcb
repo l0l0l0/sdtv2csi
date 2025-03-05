@@ -2958,7 +2958,7 @@
 				)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "10pF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "21d99db6-94b8-46a2-b7f2-bedc5a197217")
@@ -3157,7 +3157,7 @@
 				)
 			)
 		)
-		(property "Value" "ABM8G-28.63636MHZ"
+		(property "Value" "ABM8G-28.63636MHZ-4Y-T3"
 			(at 0 2.45 90)
 			(layer "F.Fab")
 			(uuid "58f86b6d-a499-4ae5-baf3-66bd80f3f673")
@@ -3783,7 +3783,7 @@
 				)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "10pF"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "b2561a98-6099-4591-8c23-c95fcfc9b851")

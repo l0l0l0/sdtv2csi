@@ -7207,7 +7207,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ABM8G-28.63636MHZ"
+		(property "Value" "ABM8G-28.63636MHZ-4Y-T3"
 			(at 133.35 116.84 0)
 			(effects
 				(font
@@ -11055,7 +11055,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "10pF"
 			(at 117.221 123.063 0)
 			(effects
 				(font
@@ -12466,7 +12466,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "10pF"
 			(at 135.001 123.063 0)
 			(effects
 				(font
@@ -13222,7 +13222,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P280X145-5N"
+		(property "Footprint" "Library:SOT95P280X145-5N"
 			(at 195.58 146.99 0)
 			(effects
 				(font
