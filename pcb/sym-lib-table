@@ -1,5 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "ADV7280A-M")(type "KiCad")(uri "${KIPRJMOD}/sym/ADV7280A-M.kicad_sym")(options "")(descr ""))
   (lib (name "RPI_CSI_CONN")(type "KiCad")(uri "${KIPRJMOD}/sym/RPI_CSI_CONN.kicad_sym")(options "")(descr ""))
   (lib (name "NJM12888F18")(type "KiCad")(uri "${KIPRJMOD}/sym/NJM12888F18.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV70218QDBVRQ1")(type "KiCad")(uri "${KIPRJMOD}/sym/TLV70218QDBVRQ1.kicad_sym")(options "")(descr ""))
 )
