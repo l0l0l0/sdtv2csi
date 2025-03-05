@@ -14844,14 +14844,6 @@
 		(uuid "dda9c1af-50f0-4840-a179-927f44645054")
 	)
 	(via
-		(at 59.8584 74.3612)
-		(size 0.8)
-		(drill 0.4)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "e3129000-e033-4925-b5e1-d3bedcb29806")
-	)
-	(via
 		(at 69.7 69.3)
 		(size 0.8)
 		(drill 0.4)
